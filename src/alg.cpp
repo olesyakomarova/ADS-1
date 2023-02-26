@@ -24,7 +24,7 @@ uint64_t nPrime(uint64_t n) {
     ++num;
     }
     return number;
- }
+}
 
 uint64_t nextPrime(uint64_t value) {
   while (true) {
